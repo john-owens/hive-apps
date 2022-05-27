@@ -219,4 +219,4 @@ repoServer:
 
 configs:
   secret:
-    createSecret: false
+    createSecret: true
